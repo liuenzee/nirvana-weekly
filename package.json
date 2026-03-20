@@ -1,0 +1,1 @@
+{\n  "name": "nirvana-weekly",\n  "version": "1.0.0",\n  "description": "A weekly report for Nirvana projects.",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js",\n    "test": "echo 'No tests specified' && exit 0"\n  },\n  "author": "liuenzee",\n  "license": "ISC"\n}

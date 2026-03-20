@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+.DS_Store
+.env
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
